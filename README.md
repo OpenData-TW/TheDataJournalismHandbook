@@ -37,3 +37,6 @@ License
 =======
 
 The Data Journalism Handbook can be freely copied, redistributed and reused under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike license</a>. Contributors to the Data Journalism Handbook retain copyright over their respective contributions, and have kindly agreed to release them under the terms of this license.
+
+關於中文版（繁中_台灣）翻譯
+===========================
